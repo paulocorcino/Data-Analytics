@@ -1,0 +1,25 @@
+﻿id_aluno;nome;turma;altura;sapato;formacao_grad;ultimo_titulo;profissao_atual;hobbies_preferidos;experiencia_dados;uni_fed;regiao;lat;lon;cep
+A01;José;turma1;1,72;42;administração;doutorado;professor & pesquisador;jardinagem & andar de bike;S;SP;Sudeste;-23.627;-46.635;01000-000
+A02;Lúcia;turma1;1,65;39;jornalismo;mestrado;redatora;leitura & escutar música;N;RJ;Sudeste;-22.9201;-43.3307;20000-000
+A03;Antonio;turma1;1,90;46;comunicação social;MBA;produtor de conteúdo;natação & andar de bike;N;RJ;Sudeste;-22.9201;-43.3307;20000-000
+A04;Maria;turma1;1,75;43;publicidade;MBA;produtor de conteúdo;corrida;S;MG;Sudeste;-19.8993;-43.957;30000-000
+A05;João;turma1;1,68;40;engenharia civil;pós-graduação;engenheiro encarregado;velejar;S;SP;Sudeste;-23.627;-46.635;01000-000
+A06;Carmem;turma1;1,57;36;medicina;doutorado;médica cardiologista;passear a cavalo;N;SP;Sudeste;-23.627;-46.635;01000-000
+A07;Cláudia;turma1;1,70;41;direito;pós-graduação;advogada empresarial;escutar música;N;SP;Sudeste;-23.627;-46.635;01000-000
+A08;Celso;turma1;1,63;37;administração;pós-graduação;consultor de gestão;corrida & natação;N;BA;Nordeste;-12.8665;-38.4858;40000-000
+A09;Suely;turma1;1,55;35;psicologia;mestrado;pesquisadora;natação & esgrima;S;PE;Nordeste;-8.0117;-34.9529;50000-000
+A10;Luís;turma1;1,71;40;administração;pós-graduação;empresário;corrida & leitura;S;BA;Nordeste;-12.8665;-38.4858;40000-000
+A11;Adelson;turma1;1,72;37;marketing;graduação;analista de comunicação;viajar & assistir filmes/séries;N;PB;Nordeste;-7.1709;-34.8654;58000-000
+A12;Serafim;turma1;1,59;35;jornalismo;graduação;content management & colunista;cozinhar & fazer drinks;N;PR;Sul;-25.5039;-49.2908;80000-000
+A13;Joana;turma2;1,75;44;publicidade e propaganda;graduação;community manager;carros & piadas;S;PR;Sul;-25.5039;-49.2908;80000-000
+A14;Catarina;turma2;1,68;34;administração;graduação;marketing;mergulho & assistir filmes/séries;N;SC;Sul;-27.6145;-48.5012;88000-000
+A15;Carla;turma2;1,60;35;publicidade e propaganda;graduação;analista de marketing;viajar & decoração;S;DF;Centro-Oeste;-15.8307;-47.6127;70000-000
+A16;Marcelo;turma2;1,67;38;jornalismo;graduação;repórter;escrever & assistir filmes/séries;N;DF;Centro-Oeste;-15.8307;-47.6127;70000-000
+A17;Frank;turma2;1,54;34;publicidade e propaganda;graduação;analista mídias sociais;fotografia & voluntariado;S;GO;Centro-Oeste;-16.6402;-49.2599;74000-000
+A18;Cristiano;turma2;1,76;40;administração;pós-graduação;hoteleiro;família & motocicletas;N;RS;Sul;-30.1146;-51.1639;90000-000
+A19;Pamela;turma2;1,75;39;economia;graduação;auditora interna;fazer vídeos & viajar;S;MT;Centro-Oeste;-15.4192;-55.8902;78000-000
+A20;Paola;turma2;1,76;39;marketing;graduação;propagandista farmacêutico;trader & academia;N;SP;Sudeste;-23.627;-46.635;01000-000
+A21;Kevin;turma2;1,81;39;tecnologia de informação;graduação;analista de suporte;andar de bike & viajar;N;RJ;Sudeste;-22.9201;-43.3307;20000-000
+A22;Anderson;turma2;1,63;32;marketing;graduação;ux writer;ler & viajar;N;PI;Nordeste;-5.3018;-42.8485;64000-000
+A23;Cristina;turma2;1,63;35;jornalismo;graduação;public relations & jornalista;surfar & assistir filmes/séries;N;MG;Sudeste;-19.8993;-43.957;30000-000
+A24;Antonia;turma2;1,57;36;jornalismo;graduação;coordenadora de conteúdo;assistir filmes/séries & comer;N;SP;Sudeste;-23.627;-46.635;01000-000
