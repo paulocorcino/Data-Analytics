@@ -118,5 +118,7 @@ for(i in 1:length(unique_price_gas_periodoref)) {
   text(x = ( (i - 1) + 0.1), y = ( round(min[i],0) - 20), labels = paste("Min:", round(min[i], 2)), pos = 1, cex = 0.6, col = "blue")
 }
 
+legend("topright", c(paste("Preço", price_gas_produto), "Cotação Dolar", "Preço do Brent"), fill = c("yellow", "orange", "brown"), cex = 0.7)
+
 # boxplot(gas_price$Valor.de.Venda ~ gas_price$Bairro, las=1, col="yellow", subset = (gas_price$Estado...Sigla == price_gas_UF & gas_price$periodo_ref == price_gas_dataref & gas_price$Municipio == price_gas_cidade & gas_price$Produto == price_gas_produto),  ylab = paste("Preço Venda", price_gas_produto,  "R$"), xlab = "Bairro", boxwex=0.2, main = paste("Variação preço de venda por Bairro", price_gas_produto, "em", price_gas_cidade, "/", price_gas_UF ))
 
